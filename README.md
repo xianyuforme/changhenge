@@ -23,7 +23,7 @@ public class Shi {
 				count ++;
 				index += keyword.length();
 			}
-		System.out.println("the count of " + keyword + " is: " + count);
+		System.out.println("存在" + keyword + " 有: " + count + "个");
 		} 
 		catch (Exception e) {
 		}
