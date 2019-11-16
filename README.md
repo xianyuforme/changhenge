@@ -9,9 +9,13 @@
 1、每七个汉字加入一个标点符号，奇数时加“，”，偶数时加“。”
 2、允许提供输入参数，统计古诗中某个字或词出现的次数
 ###
-![image](https://github.com/xianyuforme/changhenge/blob/master/pic/b2baad94822c8710b36e467995532ae.png)
-代码内容
+启动
 ####
+![image](https://github.com/xianyuforme/changhenge/blob/master/pic/b2baad94822c8710b36e467995532ae.png)
+#####
+输入要查询的字
+######
+![image](https://github.com/xianyuforme/changhenge/blob/master/pic/dd7df25eadf199e552b2f4c44365ac9.png)
 # changhenge
 ``` JAVA
 import java.util.Scanner;
@@ -48,3 +52,4 @@ public class Shi {
 
 } 
 }
+```
